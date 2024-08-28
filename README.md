@@ -1,0 +1,1 @@
+Multi-Agent RL for coordination of EV Charging on various RL algorithms such as SAC, MADDPG, MATD3 and experience replay implementations of HER. Ongoing work includes implementations of Graph neural networks for agent communication
